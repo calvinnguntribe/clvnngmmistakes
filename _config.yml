@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : #"https://github.com/clvnng/"
-baseurl                  : "clvnngmmistakes"
+baseurl                  : "/clvnngmmistakes"
 repository               : #"clvnng/clvnngmmistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/spdlogo.png
