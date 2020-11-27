@@ -40,7 +40,7 @@ Below is a list of the DXFs and brief description. Cut in 1/4" Aluminum. The gra
 | Name | Type | Quantity | Length (inches)|  Length (mm) | Brief Description |
 | 1530Bottom Rails | 15x30 | 2 | 60	| 1524 | Bottom horizontal rails running on the ground |
 | 1545UpRights | 15x45 | 2 | 28	| 635 | Vertical pieces connected at the horizontal bottm rails|
-| 1515SeatPedal | 15x15 | 4 | 24 | 611 | Horizontal lengths that hold seat and pedals |
+| 1515SeatPedal | 15x15 | 4 | 24 | 611 | Horizontal lengths that hold seat and pedals 5/16 Tapped Holes on All Ends|
 | 1515WheelDeckSides | 15x15 | 2 | 10.25 | 260 | Horizontal pieces bolted to WheelAdjPlate |
 | 1515WheelDeck | 15x15 | 2 | 17.5	| 444 | Horizontal pieces holding Wheel |
 
@@ -60,7 +60,7 @@ Below is a list of the DXFs and brief description. Cut in 1/4" Aluminum. The gra
 | Name | Type | Quantity | Length (inches)|  Length (mm) | Brief Description |
 | 4080Bottom Rails | 15x30 | 2 | 60	| 1524 | Bottom horizontal rails running on the ground |
 | 40120UpRights | 15x45 | 2 | 28	| 635 | Vertical pieces connected at the horizontal bottm rails|
-| 4040SeatPedal | 15x15 | 4 | 24 | 611 | Horizontal lengths that hold seat and pedals |
+| 4040SeatPedal | 15x15 | 4 | 24 | 611 | Horizontal lengths that hold seat and pedals 5/16 Tapped Holes on All Ends|
 | 4040WheelDeckSides | 15x15 | 2 | 10.25 | 260 | Horizontal pieces bolted to WheelAdjPlate |
 | 4040WheelDeck | 15x15 | 2 | 17.2	| 438 | Horizontal pieces holding Wheel |
 
