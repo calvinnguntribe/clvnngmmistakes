@@ -9,6 +9,7 @@ I want to share the my sim racing chassis design the sim racing desing with the 
 Between the above renders and the dxf files found here should be enough information to build your own. If you need dimensions of the aluminum extrusion please feel free to reach out to me on instagram below, provided below. 
 
 [Vector Files / DXFs](https://github.com/clvnng/SimRacing){: .btn}
+
 For those who don't know how git works. just right click each file and save. 
 
 Below is a list of the DXFs and brief description. Cut in 1/4" Aluminum. The grade of aluminum doesn't really matter. It will be strong enough for this sim racing chassis. All DXF's are dimensioned in milimetre (mm) units
