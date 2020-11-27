@@ -1,16 +1,19 @@
 I want to share the my sim racing chassis design the sim racing desing with the rest of the community. I previously just shared renders of the build but haven't had the chance to compile the vector files (dxfs) for people to to cut there own custom custom parts. 
 
-![ChassisAndMonitor](../assets/images/ChassisRender.png)
-![Chassis1](../assets/images/RacingRig5.png)
-![Chassis2](../assets/images/RacingRig6.png)
-![Monitor1](../assets/images/MonitorStand2.png)
-![Monitor2](../assets/images/MonitorStand4.png)
+![ChassisAndMonitor](../assets/images/simracing/ChassisRender.png)
+![Chassis](../assets/images/simracing/RacingRig2.png)
+![DBox](../assets/images/simracing/DBoxAttachment2.png)
+![Chassis1](../assets/images/simracing/RacingRig5.png)
+![Chassis2](../assets/images/simracing/RacingRig6.png)
+![Monitor1](../assets/images/simracing/MonitorStand2.png)
+![Monitor2](../assets/images/simracing/MonitorStand4.png)
+![Monitor3](../assets/images/simracing/MonitorStand5.png)
 
-Between the above renders and the dxf files found here should be enough information to build your own. If you need dimensions of the aluminum extrusion please feel free to reach out to me on instagram below, provided below. 
+Between the above renders and the dxf files found here, it should be enough information to build your own. If you need dimensions of the aluminum extrusion please feel free to reach out to me on instagram, link provided below. 
 
 [Vector Files / DXFs](https://github.com/clvnng/SimRacing){: .btn}
 
-For those who don't know how git works. just right click each file and save. 
+For those who don't know how git works. just right click each file and save. send to you local water jet / laser cutter. 
 
 Below is a list of the DXFs and brief description. Cut in 1/4" Aluminum. The grade of aluminum doesn't really matter. It will be strong enough for this sim racing chassis. All DXF's are dimensioned in milimetre (mm) units
 
