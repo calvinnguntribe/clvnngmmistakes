@@ -1,6 +1,6 @@
 I want to share the my sim racing chassis design the sim racing desing with the rest of the community. I previously just shared renders of the build but haven't had the chance to compile the vector files (dxfs) for people to to cut there own custom custom parts. 
 
-![ChassisAndMonitor]({{ site.url }}{{ site.baseurl }}/assets/images/simracing/ChassisRender.png)
+![ChassisAndMonitor](/assets/images/simracing/ChassisRender.png)
 ![Chassis1](/tree/master/assets/images/simracing/RacingRig5.png)
 ![Chassis2](/tree/master/assets/images/simracing/RacingRig6.png)
 ![Monitor1](/tree/master/assets/images/simracing/MonitorStand2.png)
