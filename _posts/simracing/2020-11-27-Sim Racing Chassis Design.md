@@ -1,10 +1,10 @@
 I want to share the my sim racing chassis design the sim racing desing with the rest of the community. I previously just shared renders of the build but haven't had the chance to compile the vector files (dxfs) for people to to cut there own custom custom parts. 
 
-![ChassisAndMonitor](/assets/images/simracing/ChassisRender.png)
-![Chassis1](/assets/images/simracing/RacingRig5.png)
-![Chassis2](/assets/images/simracing/RacingRig6.png)
-![Monitor1](/assets/images/simracing/MonitorStand2.png)
-![Monitor2](/assets/images/simracing/MonitorStand4.png)
+![ChassisAndMonitor](../assets/images/ChassisRender.png)
+![Chassis1](../assets/images/RacingRig5.png)
+![Chassis2](../assets/images/RacingRig6.png)
+![Monitor1](../assets/images/MonitorStand2.png)
+![Monitor2](../assets/images/MonitorStand4.png)
 
 Between the above renders and the dxf files found here should be enough information to build your own. If you need dimensions of the aluminum extrusion please feel free to reach out to me on instagram below, provided below. 
 
