@@ -2,4 +2,4 @@ I wanted to design a button box that is easy to assembly, with easily replacable
 
 All the parts can easily be found 
 
-![ButtonBox](../assets/images/simracing/20210201_194734.png)
+![ButtonBox](../assets/images/simracing/20210201_194734.jpg)
