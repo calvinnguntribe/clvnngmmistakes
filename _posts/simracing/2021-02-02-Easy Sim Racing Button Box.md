@@ -6,7 +6,7 @@ Here some features of the design:
 - holes pre made for buttons
 - standoffs to mount the the control board encoder are provided
 - usb holes are aligned for easy plug and play
-- easy to find reparts for quick repairs 
+- easy to find parts for quick repairs 
 
 All the parts can easily be found amazon for about $40USD shipped. 
 
@@ -15,11 +15,11 @@ All the parts can easily be found amazon for about $40USD shipped.
 ![ButtonBoxMounted](../assets/images/simracing/20210201_200602.jpg)
 
 Required Hardware:
-- 12 - Buttons 
-- 6 - Momentary toggle switches
-- 2 - Zero Delay Encoders with USB 
-- 4 - M3*20 Hex socket head to assemble enclosure
-- 4 - M3*20 Hex socket head to mount the 2 control boards
+- 12 - Buttons (WayinTop 20pcs Momentary Push Button)
+- 6 - Momentary toggle switches (mxuteuk 6pcs MTS-123 3 Terminal 3 Position SPDT momentary)
+- 2 - Zero Delay Encoders with USB (Reyann Zero Delay Arcade USB Encoder)
+- 4 - M3*20mm Hex socket head to assemble the enclosure
+- 4 - M3*8mm Hex socket head to mount the 2 control. The alternative is to all 8 holes but that would be a bit overkill.  
 
 The part that took the longest was soldering the momentary toggle switches, the rest of the assembly took 20min. Im very happy how everything turned out. The enclosure was printed on a Prusa3D with Galaxy Black PLA. Gives it a really nice composite look.
 
