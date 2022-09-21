@@ -1,4 +1,4 @@
-I want to share the my sim racing chassis design the sim racing desing with the rest of the community. I previously just shared renders of the build but haven't had the chance to compile the vector files (dxfs) for people to to cut there own custom custom parts. 
+I want to share the my sim racing chassis design with the rest of the community. I previously just shared renders of the build but haven't had the chance to compile the vector files (dxfs) for people to to cut there own custom custom parts. 
 
 ![ChassisAndMonitor](../assets/images/simracing/ChassisRender.png)
 ![Chassis](../assets/images/simracing/RacingRig2.png)
